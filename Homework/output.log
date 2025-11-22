@@ -1,2 +1,3 @@
 This should go to the file
 This too
+Exception: ZeroDivistionError: division by zero
